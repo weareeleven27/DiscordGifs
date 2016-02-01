@@ -75,6 +75,3 @@ function setStamp()
 GifAvatar.prototype.stop = function() {
     
 };
-
-GifAvatar.prototype.update = function() {
-};
